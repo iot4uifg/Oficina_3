@@ -73,7 +73,7 @@ void loop() {
   }
   //Verifica a indexação da URL para desligar o LED
   if (request.indexOf("/LED=OFF") != -1)  {
-    //Desiga o LED e altera o valor da variável value para HIGH
+    //Desliga o LED e altera o valor da variável value para HIGH
     digitalWrite(LED_BUILTIN, HIGH);
     value = HIGH;
   }
