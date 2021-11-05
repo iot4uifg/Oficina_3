@@ -38,6 +38,7 @@ void setup() {
   }
   Serial.println("");
   Serial.println("WiFi conectado");
+  //Inicia o WebServer
   server.begin();
   Serial.println("Server iniciado");
   Serial.print("Use esta URL para se conectar: ");
