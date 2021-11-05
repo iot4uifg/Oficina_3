@@ -2,7 +2,7 @@
   Projeto IOT4U
   IFG Campus Goiânia
   Oficina 3 - Vídeo 1
-  Autor:    Matheus Yosimura / Professor Calos Silveira
+  Autor:    Matheus Yosimura / Professor Carlos Silveira
   Objetivo: Conectar o ESP8266 na rede Wifi. Utilizar funções da biblioteca EDP8266WiFi. Ligar e desligar o LED pelo WebSite e apresentar seu estado (ligado ou desligado).
 *********/
 
